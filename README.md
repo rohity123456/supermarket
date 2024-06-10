@@ -4,6 +4,10 @@
 
 This is an implementation of the Supermarket Checkout in Python. The program allows users to input products, their prices, and special offers via the command line, and then calculate the total price of items scanned for checkout. The project applies object-oriented programming principles and includes unit tests.
 
+## Demo
+
+![Demo](media/demo.gif)
+
 ## Features
 
 - **Product Management**: Add products with their prices.
@@ -20,15 +24,13 @@ This is an implementation of the Supermarket Checkout in Python. The program all
 - ### Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
-
-
-Running the Program
-Ensure you are in the root directory of the project.
+git clone https://github.com/rohity123456/supermarket.git
+cd supermarket
 ```
 
-- ### Run the checkout process:
+
+- ### Running the Program
+Ensure you are in the root directory of the project.
 ```sh
 python main.py
 or 
